@@ -52,6 +52,14 @@ class HomeScreen extends StatelessWidget {
           Helper.goPage(context: context, page: FcmPage());
         },
       ),
+      FirebaseServiceItem(
+        title: 'FCM Notification',
+        subtitle: 'Push notification service',
+        icon: Icons.notifications_active_outlined,
+        onTap: () {
+          Helper.goPage(context: context, page: FcmPage());
+        },
+      ),
 
       
     ];
