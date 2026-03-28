@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139646970928",
+    "project_id": "vc-base-service",
+    "storage_bucket": "vc-base-service.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139646970928:android:04b54fc7be3faf8f21d1f5",
+        "android_client_info": {
+          "package_name": "com.vc.base_service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATkCEMLcTLdd07Dz9EUbU7vl22Yq4NEko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
